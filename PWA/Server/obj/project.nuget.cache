@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xZO1EtUOIXmzHT16afxb9FePdLc9cLAxJt/GP9vv+90yDFAIcJNN6USRW4FpLGGgmspZqim313an718ivDfesw==",
+  "dgSpecHash": "xIu2yrb1ZDKycmbulWq3lJsrWJs/VtVvrBWuj4QakHdfeyuuvoJJeopBjdk4Tnj3HgeudbI6tNelJltjBClxqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Server\\PWA.Server.csproj",
+  "projectFilePath": "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Server\\PWA.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENG\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\ENG\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",

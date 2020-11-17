@@ -7001,11 +7001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Server\\PWA.Server.csproj",
+      "projectUniqueName": "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Server\\PWA.Server.csproj",
       "projectName": "PWA.Server",
-      "projectPath": "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Server\\PWA.Server.csproj",
+      "projectPath": "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Server\\PWA.Server.csproj",
       "packagesPath": "C:\\Users\\ENG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Server\\obj\\",
+      "outputPath": "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7025,11 +7025,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Client\\PWA.Client.csproj": {
-              "projectPath": "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Client\\PWA.Client.csproj"
+            "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Client\\PWA.Client.csproj": {
+              "projectPath": "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Client\\PWA.Client.csproj"
             },
-            "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Shared\\PWA.Shared.csproj": {
-              "projectPath": "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Shared\\PWA.Shared.csproj"
+            "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Shared\\PWA.Shared.csproj": {
+              "projectPath": "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Shared\\PWA.Shared.csproj"
             }
           }
         }

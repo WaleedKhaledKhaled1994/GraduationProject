@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Shared\\PWA.Shared.csproj": {}
+    "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Shared\\PWA.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Shared\\PWA.Shared.csproj": {
+    "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Shared\\PWA.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Shared\\PWA.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Shared\\PWA.Shared.csproj",
         "projectName": "PWA.Shared",
-        "projectPath": "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Shared\\PWA.Shared.csproj",
+        "projectPath": "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Shared\\PWA.Shared.csproj",
         "packagesPath": "C:\\Users\\ENG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

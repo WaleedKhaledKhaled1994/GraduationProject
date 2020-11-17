@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YtifpDrSnQVp0J74ys4vikdOqzeCbYqL7xNsCSkkN3dCA1X2di5k2dlsDyL2w/HfHXnWoUXe/h4xqobJQFIgng==",
+  "dgSpecHash": "7eE8fA9VJ/KGMWfoM6xp4mlvRCWIilSFgY2z6lgynPM/5nFI4HITlX6V7FM3lObVPNbb6syFI8j4PWJ60v6XvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENG\\Desktop\\PWA\\PWA\\Shared\\PWA.Shared.csproj",
+  "projectFilePath": "C:\\Users\\ENG\\Desktop\\MyProj\\PWA\\PWA\\Shared\\PWA.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENG\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
